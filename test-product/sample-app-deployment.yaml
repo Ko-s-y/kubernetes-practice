@@ -23,7 +23,7 @@ spec:
           envFrom:
             - configMapRef:
                 name: sample-app
-              secretRef:
+            - secretRef:
                 name: sample-app
           resources: {}
 status: {}
