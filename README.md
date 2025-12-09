@@ -1,1 +1,1 @@
-# kubernates-practive
+# kubernetes-practive
